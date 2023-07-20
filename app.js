@@ -14,7 +14,7 @@ startBTN.addEventListener('click', () => {
         btnWrap.style.display = 'none'
     }
     else {
-        btnWrap.innerHTML = 'нет так нет 0_o'
+        btnWrap.innerHTML = `<h1>нет так нет 0_o</h1>`
     }
 })
 
